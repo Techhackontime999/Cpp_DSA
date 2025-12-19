@@ -1,2 +1,2 @@
-# C-_DSA
+# C++_DSA
 Here is my dsa work in c++.
